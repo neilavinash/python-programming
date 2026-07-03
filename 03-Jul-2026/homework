@@ -1,0 +1,14 @@
+#Variable Project for Student Id Card
+
+name = "Karnam Kuldeep Kumar"
+roll_no = 104826
+department = "CSE"
+year = "2021-2024"
+college = "Velammal Engineering College"
+
+print("Student ID Card")
+print("Name:", name)
+print("Student ID Number:", roll_no)
+print("Department:", department)
+print("Year:", year)
+print("College:", college

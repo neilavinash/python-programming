@@ -1,9 +1,7 @@
-animal = input ("what is your favorite animal")
-print (animal)
-asda
- 
-
-
+fruits = input ("what is your favorite fruit? ")
+candy = input ("what is your favorite candy? ")
+food = input ("what is your favorite food? ")
+print (fruits, candy, food)
 
 
 
