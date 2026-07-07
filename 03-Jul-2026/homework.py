@@ -1,5 +1,5 @@
 
-a=2
+a=22
 b=float(a)
 print(b)
 
