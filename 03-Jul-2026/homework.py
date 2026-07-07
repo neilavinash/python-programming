@@ -1,16 +1,12 @@
-a=32
-b=35
-print(a)
-print(type(a))
-print(a+b)
 
-x=600.5
-y=200.5
-print(x)
+a=2
+b=float(a)
+print(b)
+
+x=65.4
+y=int(x)
+print(y)
+
+x=40j
 print(type(x))
 print(x+y)
-c=3+4j
-print(c)
-print(type(c))
-print(c.real)
-print(c.imag)

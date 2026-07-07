@@ -1,13 +1,12 @@
-#type conversion 
-#int to float
-a=20
+
+a=60
 b=float(a)
 print(b)
-#float to int
-x=5.5
+
+x=65.4
 y=int(x)
 print(y)
-#int to complex
-x=8j
+
+x=60j
 print(type(x))
 print(x+y)

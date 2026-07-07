@@ -1,13 +1,13 @@
-b=600000000
-c=65005050
-print(c+b)
 
-n=50000.40
-m=60000.50
-print(n+m)
+a=44
+b=float(a)
+print(b)
 
-g=700+800j
-print(g)
-print(type(g))
-print(g.real)
-print(g.imag)
+x=53.5
+y=int(x)
+print(y)
+
+
+x=80j
+print(type(x))
+print(x+y)
