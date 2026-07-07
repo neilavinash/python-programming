@@ -1,7 +1,8 @@
-fruits = input ("what is your favorite fruit? ")
-candy = input ("what is your favorite candy? ")
-food = input ("what is your favorite food? ")
-print (fruits, candy, food)
+name = input("what is your name? ")
+studenid = input("what is your student ID? ")
+school = input("what school do you attend? ")
+years = input("how many years have you been in school? ")
+print (name: name, StudentID: student_id, School: school, Years: years)
 
 
 
