@@ -1,9 +1,6 @@
-434a=input("enter a number: ")
+a=input("enter a number: ")
 b=input("enter another number: ")
 print(a+b)
-
-
-
 
 
 
