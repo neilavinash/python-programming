@@ -1,1 +1,1 @@
-print(len("ice cream"))
+print(len("icee cream"))
