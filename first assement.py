@@ -1,5 +1,5 @@
-neil= ("neil likes to play outside and play with his friends")
-print(neil)
+Neil= ("neil likes to play outside and play with his friends")
+print(Neil)
 
 
 
