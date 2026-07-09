@@ -1,1 +1,1 @@
-print(len("pancakee"))
+print = ("abcdefghijklmnopqrstuvwxyz")

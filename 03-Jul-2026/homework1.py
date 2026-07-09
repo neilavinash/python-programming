@@ -1,1 +1,7 @@
-print(len("icee cream"))
+fruit1=input("Enter a fruit: ")
+fruit2=input("Enter another fruit: ")
+fruit3=input("Enter a third fruit: ")
+price1=int(input("Enter the price of the first fruit: "))
+price2=int(input("Enter the price of the second fruit: "))
+price3=int(input("Enter the price of the third fruit: "))
+print(fruit1 + " costs " + str(price1) + ", " + fruit2 + " costs " + str(price2) + ", and " + fruit3 + " costs " + str(price3) + ".")

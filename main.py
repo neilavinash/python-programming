@@ -1,4 +1,9 @@
-print(len("sleeep"))
+marksmath = int(input("Please enter your marks in math: "))
+marksscience = int(input("Please enter your marks in science: "))
+marksenglish = int(input("Please enter your marks in english: "))
+markssocialstudies = int(input("Please enter your marks in social studies: "))
+print(marksmath, marksscience, marksenglish, markssocialstudies)
+
 
 
 
