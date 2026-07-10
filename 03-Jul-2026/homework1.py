@@ -1,7 +1,14 @@
-fruit1=input("Enter a fruit: ")
-fruit2=input("Enter another fruit: ")
-fruit3=input("Enter a third fruit: ")
-price1=int(input("Enter the price of the first fruit: "))
-price2=int(input("Enter the price of the second fruit: "))
-price3=int(input("Enter the price of the third fruit: "))
-print(fruit1 + " costs " + str(price1) + ", " + fruit2 + " costs " + str(price2) + ", and " + fruit3 + " costs " + str(price3) + ".")
+a = "ice cream"
+print(a.upper())
+a = "basketball"
+print(a.lower())
+a = "ice cream"
+print (a.strip())#returns ice cream
+a = "ice creaa"
+print(a.replace("a", "m"))
+a = "ice cream"
+print (a.split())#returns ['ice', 'cream']
+a = "ice " 
+b = "cream"
+c = a + b
+print(c)

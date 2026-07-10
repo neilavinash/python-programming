@@ -1,6 +1,7 @@
-Neil= ("neil likes to play outside and play with his friends")
-print(Neil)
-
+b = "Niel5Neil"
+c = "No6"
+h = b + c
+print(h)
 
 
 
