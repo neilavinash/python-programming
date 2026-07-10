@@ -1,14 +1,12 @@
-o = "basketball"
-print(o.upper())
-c = "football"
-print(c.lower())
-q = "guvava"
-print (q.strip())#returns guvava
-p = "kiwi"
-print(p.replace("i", "j"))
-d = "strawberries"
-print (d.split())#returns ['racket', 'ball']
-b = "golf" 
-d = "ball"
-h = b + d
-print(h)
+b="python"
+print(b[2:4])
+
+l="basketball"
+print(l[0:4])
+
+
+o="dog"
+print(o[-3:-1])
+
+p="football"
+print(p[-6:-3])
